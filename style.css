@@ -154,3 +154,36 @@ body {
     font-style: normal;
     margin: 16px 64px 0px 0px;
 }
+
+.section-3 {
+    padding: 56px 128px;
+}
+.section-3 .container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+    margin: 0 128px;
+    padding: 64px;
+    border-radius: 16px;
+}
+
+.cta-title {
+    font-size: 24px;
+    font-weight: 900;
+    color:#F9FAf8;
+}
+
+.cta-body {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.cta-button button {
+    background: transparent;
+    font-size: 18px;
+    color: #F9FAf8;
+    border: 2px solid #F9FAf8;
+    padding: 8px 32px;
+    border-radius: 8px;
+}
