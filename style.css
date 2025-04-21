@@ -131,7 +131,7 @@ body {
     justify-content: center;
     align-items: center;
     background: #E5E7EB;
-    padding: 56px 128px;
+    padding: 56px 256px;
 }
 
 .section-2 .container {
@@ -152,4 +152,5 @@ body {
     font-size: 24px;
     font-weight: 600;
     font-style: normal;
+    margin: 16px 64px 0px 0px;
 }
